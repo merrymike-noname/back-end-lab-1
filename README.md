@@ -23,6 +23,8 @@ This will build an image and run a container.
 
 ## Deploy
 
-The service is deployed on https://render.com,to access it go to:
+The service is deployed on https://render.com
+
+To access it go to:
 
 https://back-end-lab-1.onrender.com/healthcheck
